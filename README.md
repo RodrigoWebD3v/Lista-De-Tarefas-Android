@@ -3,7 +3,7 @@
 [![Licença](https://img.shields.io/badge/Licença-MIT-blue.svg)](LICENSE)
 [![Versão](https://img.shields.io/badge/Versão-1.0.0-brightgreen.svg)](https://github.com/seu-usuario/seu-projeto/releases/tag/1.0.0)
 
-> Projeto criado com o intuito de aperfeiçoar meus conhecimentos no desenvolvimento de aplicativos nativos para Android. PT-BR
+> Projeto criado com o intuito de aperfeiçoar meus conhecimentos no desenvolvimento de aplicativos nativos para Android.
 
 # Por que um aplicativo de lista? 
 
